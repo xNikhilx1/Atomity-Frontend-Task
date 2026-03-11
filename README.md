@@ -105,8 +105,4 @@ Given more time, I would add:
 
 ## Live Demo
 
-(Insert deployed URL here)
-
-## Repository
-
-(Insert GitHub repository link here)
+https://atomity-frontend-task.vercel.app/
